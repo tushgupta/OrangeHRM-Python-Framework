@@ -14,7 +14,7 @@ class Test_Login(BaseTest, GetLogs):
     def test_orangehrm_page_visible(self):
         self.LoginPage = LoginPage(self.driver)
         flag = self.LoginPage.is_orangehrm_link_present()
-        assert flag
+        assert flag = True
 
     def test_orangehrm_page_clickable(self):
         self.LoginPage = LoginPage(self.driver)
