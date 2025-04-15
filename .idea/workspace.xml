@@ -4,7 +4,12 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="7b12bd28-8a41-4177-ab5d-0468e87203cc" name="Changes" comment="" />
+    <list default="true" id="7b12bd28-8a41-4177-ab5d-0468e87203cc" name="Changes" comment="Debug">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
+    <list id="2e184e23-738b-4f54-9483-29254d5ea2d2" name="New changelist" comment="New changelist">
+      <change beforePath="$PROJECT_DIR$/Logs/logs_file.log" beforeDir="false" afterPath="$PROJECT_DIR$/Logs/logs_file.log" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -30,9 +35,9 @@
   </component>
   <component name="HighlightingSettingsPerFile">
     <setting file="file://$PROJECT_DIR$/../PycharmProjects/Python_3/Python Basics/Python_Fundamentals/Automation_Fundamentals.py" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/../PycharmProjects/Python_3/Python Basics/Python_Fundamentals/coding_practice.py" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Tests/conftest.py" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Tests/Test_LoginPage.py" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/../PycharmProjects/Python_3/Python Basics/Python_Fundamentals/coding_practice.py" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Tests/test_LoginPage.py" root0="FORCE_HIGHLIGHTING" />
   </component>
   <component name="ProjectId" id="2RNRRoMSB6ZhYdhOu1kxkaDraIs" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -43,11 +48,16 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/Logs" />
     <property name="run.code.analysis.last.selected.profile" value="aDefault" />
-    <property name="settings.editor.selected.configurable" value="org.jetbrains.plugins.github.ui.GithubSettingsConfigurable" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
   <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/Logs" />
+      <recent name="$PROJECT_DIR$/TestData" />
+      <recent name="$PROJECT_DIR$/Pages" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/../PycharmProjects/Python_3/Python Basics" />
       <recent name="$PROJECT_DIR$" />
@@ -56,7 +66,7 @@
       <recent name="$PROJECT_DIR$/Test_Reports" />
     </key>
   </component>
-  <component name="RunManager" selected="Python tests.Python tests in Test_LoginPage.py">
+  <component name="RunManager" selected="Python.main">
     <configuration name="coding_practice" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="PycharmProjects" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -99,7 +109,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Python tests for Test_LoginPage.Test_Login" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
+    <configuration name="Python tests for Tests.test_LoginPage.Test_Login" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
       <module name="Docuverus" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -109,11 +119,11 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="_new_additionalArguments" value="&quot;&quot;" />
-      <option name="_new_target" value="&quot;Test_LoginPage.Test_Login&quot;" />
+      <option name="_new_target" value="&quot;Tests.test_LoginPage.Test_Login&quot;" />
       <option name="_new_targetType" value="&quot;PYTHON&quot;" />
       <method v="2" />
     </configuration>
-    <configuration name="Python tests for Test_LoginPage.Test_Login.test_login" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
+    <configuration name="Python tests for Tests.test_LoginPage.Test_Login.test_login" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
       <module name="Docuverus" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -123,11 +133,11 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="_new_additionalArguments" value="&quot;&quot;" />
-      <option name="_new_target" value="&quot;Test_LoginPage.Test_Login.test_login&quot;" />
+      <option name="_new_target" value="&quot;Tests.test_LoginPage.Test_Login.test_login&quot;" />
       <option name="_new_targetType" value="&quot;PYTHON&quot;" />
       <method v="2" />
     </configuration>
-    <configuration name="Python tests for Test_LoginPage.Test_Login.test_orangehrm_page_visible" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
+    <configuration name="Python tests for Tests.test_LoginPage.Test_Login.test_orangehrm_page_visible" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
       <module name="Docuverus" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -137,11 +147,11 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="_new_additionalArguments" value="&quot;&quot;" />
-      <option name="_new_target" value="&quot;Test_LoginPage.Test_Login.test_orangehrm_page_visible&quot;" />
+      <option name="_new_target" value="&quot;Tests.test_LoginPage.Test_Login.test_orangehrm_page_visible&quot;" />
       <option name="_new_targetType" value="&quot;PYTHON&quot;" />
       <method v="2" />
     </configuration>
-    <configuration name="Python tests in Test_LoginPage.py" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
+    <configuration name="Python tests in test_LoginPage.py" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
       <module name="Docuverus" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -151,16 +161,16 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="_new_additionalArguments" value="&quot;&quot;" />
-      <option name="_new_target" value="&quot;$PROJECT_DIR$/Tests/Test_LoginPage.py&quot;" />
+      <option name="_new_target" value="&quot;$PROJECT_DIR$/Tests/test_LoginPage.py&quot;" />
       <option name="_new_targetType" value="&quot;PATH&quot;" />
       <method v="2" />
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python tests.Python tests in Test_LoginPage.py" />
-        <item itemvalue="Python tests.Python tests for Test_LoginPage.Test_Login.test_orangehrm_page_visible" />
-        <item itemvalue="Python tests.Python tests for Test_LoginPage.Test_Login.test_login" />
-        <item itemvalue="Python tests.Python tests for Test_LoginPage.Test_Login" />
+        <item itemvalue="Python tests.Python tests in test_LoginPage.py" />
+        <item itemvalue="Python tests.Python tests for Tests.test_LoginPage.Test_Login.test_orangehrm_page_visible" />
+        <item itemvalue="Python tests.Python tests for Tests.test_LoginPage.Test_Login.test_login" />
+        <item itemvalue="Python tests.Python tests for Tests.test_LoginPage.Test_Login" />
         <item itemvalue="Python.coding_practice" />
       </list>
     </recent_temporary>
@@ -169,11 +179,76 @@
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
       <changelist id="7b12bd28-8a41-4177-ab5d-0468e87203cc" name="Changes" comment="" />
+      <changelist id="2e184e23-738b-4f54-9483-29254d5ea2d2" name="New changelist" comment="" />
       <created>1687088546838</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1687088546838</updated>
     </task>
+    <task id="LOCAL-00001" summary="Orange HRM testcases with pytest framework.">
+      <created>1744522541875</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1744522541875</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Debug">
+      <created>1744523025766</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1744523025766</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Debug">
+      <created>1744523138178</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1744523138178</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Debug">
+      <created>1744649975162</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1744649975162</updated>
+    </task>
+    <task id="LOCAL-00005" summary="Debug">
+      <created>1744650065390</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1744650065390</updated>
+    </task>
+    <task id="LOCAL-00006" summary="Debug">
+      <created>1744651223100</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1744651223100</updated>
+    </task>
+    <task id="LOCAL-00007" summary="Debug">
+      <created>1744651654555</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1744651654555</updated>
+    </task>
+    <task id="LOCAL-00008" summary="Debug">
+      <created>1744651800184</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1744651800184</updated>
+    </task>
+    <task id="LOCAL-00009" summary="New changelist">
+      <created>1744651863475</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1744651863475</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -186,5 +261,12 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Orange HRM testcases with pytest framework." />
+    <MESSAGE value="Debug" />
+    <MESSAGE value="New changelist" />
+    <option name="LAST_COMMIT_MESSAGE" value="New changelist" />
   </component>
 </project>
